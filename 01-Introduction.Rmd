@@ -2,4 +2,4 @@
 
 This is the first real chapter.
 
-This is a new sentence. Push to remote branch~
+This is a new sentence. Push to a remote branch.
