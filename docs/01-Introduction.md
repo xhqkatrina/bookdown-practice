@@ -2,3 +2,16 @@
 
 This is the first real chapter.
 
+
+This is a new sentence. Push to a remote branch.
+
+And yet another new sentence.
+
+This is a new sentence. Push to remote branch.
+
+
+Make a new change here locally.
+
+Make a new change here on Github.
+
+## Guidance on the usage of this book.

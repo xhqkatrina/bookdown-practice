@@ -1,5 +1,6 @@
 [
-["index.html", "A Minimal Bookdown Book Preface", " A Minimal Bookdown Book Sean Kross 2016-12-09 Preface This is the very first part of the book. "],
-["introduction.html", "Chapter 1 Introduction", " Chapter 1 Introduction This is the first real chapter. "],
-["diving-in.html", "Chapter 2 Diving In", " Chapter 2 Diving In Now let’s talk details. "]
+["index.html", "A Minimal Bookdown Book Preface", " A Minimal Bookdown Book Sean Kross 2019-02-14 Preface This is the very first part of the book. "],
+["introduction.html", "Chapter 1 Introduction 1.1 Guidance on the usage of this book.", " Chapter 1 Introduction This is the first real chapter. This is a new sentence. Push to a remote branch. And yet another new sentence. This is a new sentence. Push to remote branch. Make a new change here locally. Make a new change here on Github. 1.1 Guidance on the usage of this book. "],
+["diving-in.html", "Chapter 2 Diving In", " Chapter 2 Diving In Now let’s talk details. # plot something library(MASS) plot(cars$speed, cars$dist) "],
+["acknowledgement.html", "Chapter 3 Acknowledgement", " Chapter 3 Acknowledgement I want to thank *** for her contribution to this book. "]
 ]
