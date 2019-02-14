@@ -14,4 +14,3 @@ Make a new change here locally.
 
 Make a new change here on Github.
 
-## Guidance on the usage of this book.
