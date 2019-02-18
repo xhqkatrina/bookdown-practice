@@ -8,3 +8,4 @@ library(MASS)
 plot(cars$speed, cars$dist)
 ```
 
+The example above shows you that...
